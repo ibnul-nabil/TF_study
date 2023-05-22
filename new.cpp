@@ -10,5 +10,8 @@ int main(){
     int a;
     cin >> a;
     cout << s << " er roll " << a;
+
+    // in version 3 
+    cout << " in version 3 ";
     return 0;
 }
