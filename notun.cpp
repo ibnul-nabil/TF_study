@@ -12,6 +12,7 @@ int main(){
     }
 
     sort(a.begin(),a.end());
+    cout << "notun commit \n";
 
     return 0;
 }
